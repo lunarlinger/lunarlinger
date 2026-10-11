@@ -32,12 +32,3 @@ I'm curious about how models execute, how systems serve them, and how to make in
 ![Linux](./assets/badges/linux.svg)
 ![CMake](./assets/badges/cmake.svg)
 
-## 🔭 What I'm Curious About
-
-- **Model inference** — Efficient execution and runtime performance.
-- **GPU acceleration** — Understanding how computation maps onto GPUs.
-- **Model serving** — The systems that bring models into applications.
-
----
-
-<p align="center"><i>Still learning. Always curious.</i></p>
