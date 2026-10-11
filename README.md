@@ -2,7 +2,7 @@
   <img src="./assets/study.webp" width="840" alt="A quiet pixel-art university study room at dusk.">
 </p>
 
-<h2 align="center">Hi there,I am lunarlinger</h2>
+<h2 align="center">Hi there, I'm lunarlinger 👋</h2>
 
 
 ## 🎓 About Me
